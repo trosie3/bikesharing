@@ -1,5 +1,6 @@
-# large csv
+# large csvs
 201908-citibike-tripdata.csv 
+201908-citibike-adjusted.csv
 
 # DS Store
 .DS_store
